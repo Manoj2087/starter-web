@@ -15,6 +15,8 @@ This is a test deployment
 
 ## How to contribute
 
+Please fork this repo
+
 ### Copyright
 
 Manoj 2017
