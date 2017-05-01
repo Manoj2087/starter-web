@@ -19,6 +19,6 @@ Please fork this repo
 
 ### Copyright
 
-Manoj 2017
+Manoj 2017. All rights reserved.
 
 
