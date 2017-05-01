@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Manoj Alaghappan	Engineer	test@test.com
 
 # THANKS
 
